@@ -1,2 +1,4 @@
 # Slowloris_Attack_Validator
-Script para validar disponibilidad tras ejecutar Slowloris HTTP Attack
+EN: Script to check availability after Slowloris HTTP Attack excution.
+
+ES: Script para validar disponibilidad tras ejecutar Slowloris HTTP Attack.
